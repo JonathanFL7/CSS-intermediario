@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    /* list-style-image: url('./images/check_5610944\ \(1\).png'); */
+
+    background-color: orange;
+    list-style: square inside url('./images/check_5610944\ \(1\).png'); 
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+ol {
+    /* list-style-image: url('./images/check_5610944\ \(1\).png'); */
+
+    background-color: paleturquoise;
+    list-style: square inside url('./images/check_5610944\ \(1\).png'); 
+}
+
+ol li {
+    border: 1px solid black;
+    padding: 20px;
+}

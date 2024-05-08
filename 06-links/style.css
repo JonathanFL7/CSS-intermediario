@@ -1,0 +1,19 @@
+a {
+    cursor: progress;
+    margin: 20px;
+    padding: 10px;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:active {
+    color: darkorange; opacity: 30%;
+}
+
+a:hover {
+    background-color: orangered;
+    color: white;
+    border: solid 5px rgb(255, 255, 255, 0.3);
+}
